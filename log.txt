@@ -131,3 +131,22 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Joystick 2-axis with pushbutton breakout to Joystick-2-axis-with-pushbutton-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Hall effect sensor breakout with digital output/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main ff53b14] Updating open source files.
+ 1 file changed, 19 insertions(+)
+https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-digital-output-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/PIR Movement sensor board/OUTPUTS/V2.1.2: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Joystick 2-axis with pushbutton breakout/OUTPUTS/V1.2.2: all files are present, commiting...
+Joystick-2-axis-with-pushbutton-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Joystick 2-axis with pushbutton breakout to Joystick-2-axis-with-pushbutton-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Hall effect sensor breakout with digital output/.git/
