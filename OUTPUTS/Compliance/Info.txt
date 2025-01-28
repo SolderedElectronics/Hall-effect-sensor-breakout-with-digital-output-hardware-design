@@ -1,5 +1,5 @@
 SKU: 333080
 Full product name: Hall effect sensor breakout with digital output
 Country of origin: Croatia
-HS tariff code: 90318000
+HS tariff code: 85340090
 EAN/UPC barcode: 732388669905
